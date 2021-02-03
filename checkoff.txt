@@ -1,0 +1,1 @@
+git remote returns origin in this case, the remote repository that it's connected to on github. Origin master is the current branch that we're in.
